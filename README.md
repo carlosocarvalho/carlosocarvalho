@@ -14,9 +14,9 @@ follow.
 
 ### Skills started by year
 
-![php](https://img.shields.io/badge/PHP-2009-3598db)
-![laravel](https://img.shields.io/badge/Laravel-2014-blue)
-![codeigniter](https://img.shields.io/badge/Codeigniter-2011-blue)
+![php](https://img.shields.io/badge/PHP-2009-3598db?style=flat-square&logo=php)
+![laravel](https://img.shields.io/badge/Laravel-2014-blue?style=flat-square&logo=laravel)
+![codeigniter](https://img.shields.io/badge/Codeigniter-2011-blue?style=flat-square&logo=codeigniter)
 ![slim](https://img.shields.io/badge/Slim-2017-blue)
 
 ![html](https://img.shields.io/badge/HTML-2007-3598db)

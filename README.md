@@ -37,6 +37,7 @@ follow.
 ![redis](https://img.shields.io/badge/redis-2016-d82c20?style=flat-square&logo=redis)
 ![redis](https://img.shields.io/badge/mysql-2008-d82c20?style=flat-square&logo=mysql)
 ![redis](https://img.shields.io/badge/elasticsearch-2015-20d62c?style=flat-square&logo=elastic)
+![redis](https://img.shields.io/badge/mongo-2018-27bc51?style=flat-square&logo=mongodb)
 
 ![docker](https://img.shields.io/badge/docker-2017-3598db?style=flat-square&logo=docker)
 ![docker](https://img.shields.io/badge/docker--swarm-2018-3598db?style=flat-square&logo=docker)

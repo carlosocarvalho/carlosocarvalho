@@ -95,5 +95,70 @@ follow.
 ![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
 <a href="https://modalbox.modalapps.com.br">![modal](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
 
+---
+<!-- -->
+![VP6](https://img.shields.io/badge/ModalApps--LabelPrinter-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
+<strong>Skills</strong><br/>
+![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
+![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
+![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
+<a href="https://label.modalapps.com.br">![modal](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
 
+---
+<!-- -->
+![VP6](https://img.shields.io/badge/Deloitte--Portal-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
+<strong>Skills</strong><br/>
+![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
+![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
+![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
+![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
+
+
+---
+<!-- -->
+![VP6](https://img.shields.io/badge/Deloitte--Dashboard-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
+<strong>Skills</strong><br/>
+![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
+![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
+![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
+![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
+
+---
+<!-- -->
+![VP6](https://img.shields.io/badge/Deloitte--CheckStatusLend-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
+<strong>Skills</strong><br/>
+![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
+![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
+![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
+![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
+
+
+---
+<!-- -->
+![VP6](https://img.shields.io/badge/Deloitte--Sincronyzer-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
+<strong>Skills</strong><br/>
+![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
+![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
+![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
+![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
 

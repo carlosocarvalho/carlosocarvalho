@@ -35,17 +35,23 @@ follow.
 
 ### Projects
 
-![Dandelin](https://img.shields.io/badge/Dandelin-★★★★☆-1cc419)
+
+---
+![VP6](https://img.shields.io/badge/ViaSul-★★★★★-1cc419)<br/>
+<strong>Skills</strong><br/>
+
+![angular](https://img.shields.io/badge/Angular-v9-red)
+![django](https://img.shields.io/badge/Django-v2-blue)
+![mysql](https://img.shields.io/badge/MySql-v5-blue)
+![mysql](https://img.shields.io/badge/Redis-v5-blue)
+![mysql](https://img.shields.io/badge/Kafka-v1-blue)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green)
+
+<br/>
+
+<a href="https://viasul.vp6.com.br">![VP6](https://img.shields.io/badge/Link-Project-1cc419) </a>
+
+---
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

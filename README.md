@@ -29,8 +29,10 @@ follow.
 ![nodejs](https://img.shields.io/badge/NodeJS-2018-3598db?style=flat-square&logo=nodejs)
 ![nestjs](https://img.shields.io/badge/NestJS-2019-DA234C?style=flat-square&logo=nestjs)
 
-![redis](https://img.shields.io/badge/redis-3--years-d82c20)
-![redis](https://img.shields.io/badge/redis-3--years-d82c20)
+![redis](https://img.shields.io/badge/redis-2016-d82c20?style=flat-square&logo=redis)
+
+![docker](https://img.shields.io/badge/docker-2017-3598db?style=flat-square&logo=docker)
+![docker](https://img.shields.io/badge/docker--swarm-2018-3598db?style=flat-square&logo=docker)
 
 
 ### Projects

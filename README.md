@@ -20,7 +20,12 @@ follow.
 ![slim](https://img.shields.io/badge/Slim-2017-blue?style=flat-square&logo=slim)
 
 ![html](https://img.shields.io/badge/HTML-2007-3598db?style=flat-square&logo=html5)
+
 ![javascript](https://img.shields.io/badge/Javascript-2010-3598db?style=flat-square&logo=javascript)
+![javascript](https://img.shields.io/badge/Angular-2015-4db4f9?style=flat-square&logo=angular)
+![javascript](https://img.shields.io/badge/JQuery-2012-4db4f9?style=flat-square&logo=jquery)
+![javascript](https://img.shields.io/badge/React-2018-4db4f9?style=flat-square&logo=react)
+![javascript](https://img.shields.io/badge/React--Native-2018-4db4f9?style=flat-square&logo=react)
 
 ![css](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
 ![sass](https://img.shields.io/badge/SaSS-2017-c350f4?style=flat-square&logo=sass)

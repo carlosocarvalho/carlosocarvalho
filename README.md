@@ -35,6 +35,8 @@ follow.
 ![nestjs](https://img.shields.io/badge/NestJS-2019-DA234C?style=flat-square&logo=nestjs)
 
 ![redis](https://img.shields.io/badge/redis-2016-d82c20?style=flat-square&logo=redis)
+![redis](https://img.shields.io/badge/mysql-2008-d82c20?style=flat-square&logo=mysql)
+![redis](https://img.shields.io/badge/elasticsearch-2015-20d62c?style=flat-square&logo=elastic)
 
 ![docker](https://img.shields.io/badge/docker-2017-3598db?style=flat-square&logo=docker)
 ![docker](https://img.shields.io/badge/docker--swarm-2018-3598db?style=flat-square&logo=docker)
@@ -44,17 +46,17 @@ follow.
 
 
 ---
-![VP6](https://img.shields.io/badge/ViaSul-★★★★★-1cc419)<br/>
+![VP6](https://img.shields.io/badge/ViaSul--Engenharia-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
 <strong>Skills</strong><br/>
 
-![angular](https://img.shields.io/badge/Angular-v9-red)
-![django](https://img.shields.io/badge/Django-v2-blue)
-![mysql](https://img.shields.io/badge/MySql-v5-blue)
-![mysql](https://img.shields.io/badge/Redis-v5-blue)
-![mysql](https://img.shields.io/badge/Kafka-v1-blue)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green)
+![angular](https://img.shields.io/badge/Angular-v9-red?style=flat-square&logo=angular)
+![django](https://img.shields.io/badge/Django-v2-blue?style=flat-square&logo=django)
+![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
+![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
+![mysql](https://img.shields.io/badge/Kafka-v1-blue?style=flat-square&logo=kafka)
+![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker)
 <br/>
-<a href="https://viasul.vp6.com.br">![VP6](https://img.shields.io/badge/Link-Project-1cc419) </a>
+<a href="https://viasul.vp6.com.br">![VP6](https://img.shields.io/badge/Link-Project-1cc419?style=flat-square&logo=link) </a>
 
 ---
 

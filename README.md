@@ -17,17 +17,17 @@ follow.
 ![php](https://img.shields.io/badge/PHP-2009-3598db?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/Laravel-2014-blue?style=flat-square&logo=laravel)
 ![codeigniter](https://img.shields.io/badge/Codeigniter-2011-blue?style=flat-square&logo=codeigniter)
-![slim](https://img.shields.io/badge/Slim-2017-blue)
+![slim](https://img.shields.io/badge/Slim-2017-blue?style=flat-square&logo=slim)
 
-![html](https://img.shields.io/badge/HTML-2007-3598db)
-![javascript](https://img.shields.io/badge/Javascript-2010-3598db)
+![html](https://img.shields.io/badge/HTML-2007-3598db?style=flat-square&logo=html5)
+![javascript](https://img.shields.io/badge/Javascript-2010-3598db?style=flat-square&logo=javascript)
 
-![css](https://img.shields.io/badge/CSS-2007-3598db)
-![sass](https://img.shields.io/badge/SaSS-2017-c350f4)
-![less](https://img.shields.io/badge/LeSS-2018-c350f4)
+![css](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
+![sass](https://img.shields.io/badge/SaSS-2017-c350f4?style=flat-square&logo=sass)
+![less](https://img.shields.io/badge/LeSS-2018-c350f4?style=flat-square&logo=less)
 
-![nodejs](https://img.shields.io/badge/NodeJS-2018-3598db)
-![nestjs](https://img.shields.io/badge/NestJS-2019-DA234C)
+![nodejs](https://img.shields.io/badge/NodeJS-2018-3598db?style=flat-square&logo=nodejs)
+![nestjs](https://img.shields.io/badge/NestJS-2019-DA234C?style=flat-square&logo=nestjs)
 
 ![redis](https://img.shields.io/badge/redis-3--years-d82c20)
 ![redis](https://img.shields.io/badge/redis-3--years-d82c20)

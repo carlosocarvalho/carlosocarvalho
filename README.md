@@ -46,9 +46,7 @@ follow.
 ![mysql](https://img.shields.io/badge/Redis-v5-blue)
 ![mysql](https://img.shields.io/badge/Kafka-v1-blue)
 ![mysql](https://img.shields.io/badge/Docker-v1.19-green)
-
 <br/>
-
 <a href="https://viasul.vp6.com.br">![VP6](https://img.shields.io/badge/Link-Project-1cc419) </a>
 
 ---

@@ -1,165 +1,25 @@
-### Hi, wellcome 👋
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/carlosocarvalho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosocarvalho) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlosocarvalho) 
 
-### About Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=carlosocarvalho&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=carlosocarvalho&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosocarvalho&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```html
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=carlosocarvalho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-With 10 years of experience and having already acted and participated in
-development of products and solutions, we already operate in several
-existing segments, allowed us to work and learn the technologies to
-follow.
-
-```
-
-### Skills started by year
-
-![php](https://img.shields.io/badge/PHP-2009-3598db?style=flat-square&logo=php)
-![laravel](https://img.shields.io/badge/Laravel-2014-blue?style=flat-square&logo=laravel)
-![codeigniter](https://img.shields.io/badge/Codeigniter-2011-blue?style=flat-square&logo=codeigniter)
-![slim](https://img.shields.io/badge/Slim-2017-blue?style=flat-square&logo=slim)
-
-![html](https://img.shields.io/badge/HTML-2007-3598db?style=flat-square&logo=html5)
-
-![javascript](https://img.shields.io/badge/Javascript-2010-3598db?style=flat-square&logo=javascript)
-![javascript](https://img.shields.io/badge/Angular-2015-4db4f9?style=flat-square&logo=angular)
-![javascript](https://img.shields.io/badge/JQuery-2012-4db4f9?style=flat-square&logo=jquery)
-![javascript](https://img.shields.io/badge/React-2018-4db4f9?style=flat-square&logo=react)
-![javascript](https://img.shields.io/badge/React--Native-2018-4db4f9?style=flat-square&logo=react)
-
-![css](https://img.shields.io/badge/CSS-2007-3598db?style=flat-square&logo=css)
-![sass](https://img.shields.io/badge/SaSS-2017-c350f4?style=flat-square&logo=sass)
-![less](https://img.shields.io/badge/LeSS-2018-c350f4?style=flat-square&logo=less)
-
-![nodejs](https://img.shields.io/badge/NodeJS-2018-3598db?style=flat-square&logo=nodejs)
-![nestjs](https://img.shields.io/badge/NestJS-2019-DA234C?style=flat-square&logo=nestjs)
-
-![redis](https://img.shields.io/badge/redis-2016-d82c20?style=flat-square&logo=redis)
-![redis](https://img.shields.io/badge/mysql-2008-d82c20?style=flat-square&logo=mysql)
-![redis](https://img.shields.io/badge/elasticsearch-2015-20d62c?style=flat-square&logo=elastic)
-![redis](https://img.shields.io/badge/mongo-2018-27bc51?style=flat-square&logo=mongodb)
-
-![docker](https://img.shields.io/badge/docker-2017-3598db?style=flat-square&logo=docker)
-![docker](https://img.shields.io/badge/docker--swarm-2018-3598db?style=flat-square&logo=docker)
-
-
-### Projects
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![VP6](https://img.shields.io/badge/ViaSul--Engenharia-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
+[![](https://visitcount.itsvg.in/api?id=carlosocarvalho&icon=1&color=3)](https://visitcount.itsvg.in)
 
-![angular](https://img.shields.io/badge/Angular-v9-red?style=flat-square&logo=angular)
-![django](https://img.shields.io/badge/Django-v2-blue?style=flat-square&logo=django)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/Kafka-v1-blue?style=flat-square&logo=kafka)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-<a href="https://viasul.vp6.com.br">![VP6](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carlosocarvalho) 
 
----
-
-![VP6](https://img.shields.io/badge/Patrimar--Engenharia-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/Angular-v9-red?style=flat-square&logo=angular)
-![django](https://img.shields.io/badge/Django-v2-blue?style=flat-square&logo=django)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/Kafka-v1-blue?style=flat-square&logo=kafka)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-<a href="https://patrimar.vp6.com.br">![VP6](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/ModalApps--Emprestimos-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/Angular-v6-red?style=flat-square&logo=angular)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-<a href="https://modalapps.abcdcloud.com.br/">![modal](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
-
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/ModalApps--Modabox-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-<a href="https://modalbox.modalapps.com.br">![modal](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/ModalApps--LabelPrinter-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-<a href="https://label.modalapps.com.br">![modal](https://img.shields.io/badge/Access-Project-1cc419?style=flat-square&logo=link) </a>
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/Deloitte--Portal-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
-
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/Deloitte--Dashboard-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/Deloitte--CheckStatusLend-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
-
-
----
-<!-- -->
-![VP6](https://img.shields.io/badge/Deloitte--Sincronyzer-★★★★★-1cc419?style=flat-square&logo=viasul)<br/>
-<strong>Skills</strong><br/>
-![angular](https://img.shields.io/badge/React-v1-red?style=flat-square&logo=react)
-![django](https://img.shields.io/badge/PHP-v7-blue?style=flat-square&logo=php)
-![django](https://img.shields.io/badge/Laravel-v7-blue?style=flat-square&logo=laravel)
-![mysql](https://img.shields.io/badge/MySql-v5-blue?style=flat-square&logo=mysql)
-![mysql](https://img.shields.io/badge/Redis-v5-blue?style=flat-square&logo=redis)
-![mysql](https://img.shields.io/badge/ElasticSearch-v6-blue?style=flat-square&logo=elastic)
-![mysql](https://img.shields.io/badge/Docker-v1.19-green?style=flat-square&logo=docker) 
-![modal](https://img.shields.io/badge/Private-Project-1cc419?style=flat-square&logo=link)
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
